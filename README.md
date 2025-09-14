@@ -1,4 +1,9 @@
 # Tugas_1
+
+Santa Rikardo - 6162101041 - Kapita Selekta Analitika Data B
+
+---
+
 # Cerita Kopi dari Balik Meja Barista
 
 Halo!  
