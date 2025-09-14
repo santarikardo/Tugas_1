@@ -1,6 +1,6 @@
 # Tugas_1
 
-Santa Rikardo - 6162101041 - Kapita Selekta Analitika Data B.
+Santa Rikardo - 6162101041 - Kapita Selekta Analitika Data Bgi
 
 ---
 
